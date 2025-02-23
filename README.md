@@ -14,7 +14,7 @@ Amzing Project on Inventory Management System
 -User wise sell report.
 
 
-LOGO:
+*LOGO:*
 ![WhatsApp Image 2025-02-23 at 01 16 22_1cf1a3fd](https://github.com/user-attachments/assets/c4aba946-6863-4166-8c96-8ddf9fdcd064)
 
 DASHBOARD
