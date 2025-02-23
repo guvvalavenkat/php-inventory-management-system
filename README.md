@@ -15,7 +15,7 @@ Amzing Project on Inventory Management System
 
 
 
-# Requirement
+# Admin Requirement
 
 **Login Credentials 1:**
 
@@ -23,13 +23,13 @@ Id : venky
 
 password : venky@123
 
-**Login Credentials 1:**
+**Login Credentials 2:**
 
 Id : aaa
 
 password : aaa@123
 
-**Login Credentials 1:**
+**Login Credentials 3:**
 
 Id : keerthi
 
